@@ -1,2 +1,4 @@
 # mensur-jemal
-jztrujzeuz
+check out the website
+
+https://dagmawilencho.github.io/mensur-jemal
